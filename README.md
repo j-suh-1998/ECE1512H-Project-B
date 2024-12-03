@@ -3,7 +3,7 @@ Jangwon Suh
 
 Electrical and Computer Engineering, University of Toronto
 
-Refer to the ECE1512H_ProjectA_JangwonSuh_v1.pdf file
+Refer to the ECE1512H_ProjectB_JangwonSuh_v1.pdf file
 
 
 ## 1. **Part 2**
