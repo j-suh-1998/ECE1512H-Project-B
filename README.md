@@ -11,6 +11,6 @@ Refer to the ECE1512H_ProjectB_JangwonSuh_v1.pdf file
 Run Untitled4.ipynb file in google colab. Connect to T4 GPU.
 
 
-## 2. **Task 1-2-(b)~(c)**
+## 2. **Part 4**
 
 Run part4_2_v6.py file in your system. Install every libraries stated in the beginning of the code.
